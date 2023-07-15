@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, My Name is Ziad.
+
+## I am a Software Engineer Specialized in Data Science, Font-End Web Development.
+
+I am currently Learning Both Networks and Cloud Engineering.
 
 <!--
 **Ziad-Nasr/Ziad-Nasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
