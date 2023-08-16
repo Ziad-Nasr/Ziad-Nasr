@@ -1,22 +1,13 @@
-#### Hi there, My Name is Ziad.
+# **Profile Under Construction**.
 
-### Profile Under Construction.
+# Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="38px">, I am Ziad Nasr
 
-## I am a Software Engineer Specialized in Data Science, Font-End Web Development.
+#### A Software Engineer Specialized in Data Science, Front-end Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
 
-I am currently Learning Both Networks and Cloud Engineering.
+- 🌱 I’m currently Exploring **Cloud Computing** and **Networks**
 
-<!--
-**Ziad-Nasr/Ziad-Nasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My Portfolio Website would be available on 9/9/2023
 
-Here are some ideas to get you started:
+- 📫 Reach me at **ziadnasr988@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
