@@ -11,3 +11,9 @@
 - 📫 Reach me at **ziadnasr988@gmail.com**
 
 ### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
