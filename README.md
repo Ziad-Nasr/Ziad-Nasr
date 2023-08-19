@@ -12,13 +12,35 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![My Skills](https://skillicons.dev/icons?i=py)](https://react.dev/)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://react.dev/)
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq)](https://react.dev/)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://react.dev/)
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://react.dev/)
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=rabbitmq" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+</p>
