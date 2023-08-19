@@ -17,3 +17,8 @@
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://react.dev/)
