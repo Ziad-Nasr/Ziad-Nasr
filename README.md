@@ -1,4 +1,4 @@
-# 👷‍♂️ **Profile Under Construction** 👷‍♂️.
+# 👷‍♂️ **Profile Under Construction** 👷.
 
 
 
@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **ziadnasr988@gmail.com**
 
-### Skills
+## Skills
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
@@ -42,7 +42,17 @@
   <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-  <a href="https://react.dev/">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=linux" />
   </a>
 </p>
+
+## Socials
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+## Github Stats
