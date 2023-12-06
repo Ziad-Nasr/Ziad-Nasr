@@ -56,5 +56,3 @@
     <img src="https://skillicons.dev/icons?i=face" />
   </a>
 </p>
-
-## Github Stats
