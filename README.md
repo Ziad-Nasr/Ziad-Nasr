@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Exploring **Cloud Computing** and **Networks**.
 
-- 🔭 My Portfolio Website would be available on 1/1/2024.
+- 🔭 My Portfolio Website would be available on 16/6/2024.
 
 - 📫 Reach me at **ziadnasr988@gmail.com**.
 
