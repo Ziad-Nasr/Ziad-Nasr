@@ -8,7 +8,7 @@
 
 - 📚 Senior year in Copmuter Engineering Ain Shams University.
 
-- 🌱 I’m currently Exploring **Cloud Computing** and **Networks**.
+- 🌱 I’m currently Exploring **Cloud Computing** and **Problem Solving**.
 
 - 🔭 My Portfolio Website would be available on 16/6/2024.
 
@@ -35,6 +35,9 @@
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=py" />
   </a>
+  <a href="https://opencv.org/">
+    <img src="https://skillicons.dev/icons?i=opencv" />
+  </a>
   <a href="">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
@@ -49,10 +52,7 @@
 ## Socials
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
+  <a href="https://www.linkedin.com/in/ziad-nasr-071721260/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">
-    <img src="https://skillicons.dev/icons?i=face" />
   </a>
 </p>
