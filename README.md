@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Exploring **Cloud Computing** and **Problem Solving**.
 
-- 🔭 My Portfolio Website would be available on 16/6/2024.
+- 🔭 My Portfolio Website would be available on 25/9/2024.
 
 - 📫 Reach me at **ziadnasr988@gmail.com**.
 
@@ -54,5 +54,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ziad-nasr-071721260/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.linkedin.com/in/ziad-nasr-071721260/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
